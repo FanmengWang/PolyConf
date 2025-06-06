@@ -40,10 +40,14 @@ dataset
 
 ## 💪 Experiments
 ### Training
+Our model weight has been provided in this [link](https://drive.google.com/file/d/1FXUOUEcjdJLC68SCpnYMcrzGzOAK7sa6/view?usp=drive_link). If using ours, please place it in the `./phase2_ckpt` folder and rename it to `checkpoint_best.pt`.
+
+Of course, you can also train from scratch by running the following scripts.
 ``` cmd
 bash train_phase1.sh
 bash train_phase2.sh
 ```
+
 ### Inference
 ``` cmd
 bash inference.sh
