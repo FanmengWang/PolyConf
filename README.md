@@ -2,7 +2,7 @@
 
 # ⚡️PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models (ICML 2025)
 
-[![arXiv](https://img.shields.io/badge/arXiv-22504.08859-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/abs/2504.08859)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.08859-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/abs/2504.08859)
 [![Checkpoint](https://img.shields.io/badge/Download-Checkpoint-brightgreen?style=flat&logo=google-drive)](https://drive.google.com/file/d/1FXUOUEcjdJLC68SCpnYMcrzGzOAK7sa6/view?usp=drive_link)
 [![Project](https://img.shields.io/badge/Project-Website-blue?style=flat-square&logo=google-chrome)](https://polyconf-icml25.github.io/)
 [![Demo](https://img.shields.io/badge/Try%20Demo-Online-orange?style=flat&logo=render)](https://bohrium.dp.tech/apps/polyconf)
