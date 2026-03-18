@@ -66,11 +66,11 @@ Thanks for their contribution.
 If you find this work useful for your research, please consider citing it. 😊
 ```bibtex
 @inproceedings{wang2025polyconf,
-      title={PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models}, 
-      author={Fanmeng Wang and Wentao Guo and Qi Ou and Hongshuai Wang and Haitao Lin and Hongteng Xu and Zhifeng Gao},
-      booktitle={International Conference on Machine Learning},
-      pages={63002--63015},
-      year={2025},
-      organization={PMLR}
+  title={PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models},
+  author={Wang, Fanmeng and Guo, Wentao and Ou, Qi and Wang, Hongshuai and Lin, Haitao and Xu, Hongteng and Gao, Zhifeng},
+  booktitle={International Conference on Machine Learning},
+  pages={63002--63015},
+  year={2025},
+  organization={PMLR}
 }
 ```
