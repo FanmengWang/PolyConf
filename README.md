@@ -69,6 +69,7 @@ If you find this work useful for your research, please consider citing it. 😊
       title={PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models}, 
       author={Fanmeng Wang and Wentao Guo and Qi Ou and Hongshuai Wang and Haitao Lin and Hongteng Xu and Zhifeng Gao},
       booktitle={International Conference on Machine Learning},
+      pages={63002--63015},
       year={2025},
       organization={PMLR}
 }
